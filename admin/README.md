@@ -1,3 +1,8 @@
+SORRY FOR THIS : BHAI AAP SOURCE CODE KO 4 DOLLER ME DE RHE HO WEBSITE PAR LEIKIN YAHA FREE ME AVAILABLE HAI AISA KYO KYA DONO JAGAH SAME HAI I MEAN YE WALA SAHI HAI YA WEBSITE WALA ??
+
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
